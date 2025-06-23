@@ -1,4 +1,4 @@
-#Welcome to this repo which is about data visualization using matplotlib and seaborn course from manara website, this rebo include a readme file for each point in the course and a code for the visualization 
+Welcome to this repo which is about data visualization using matplotlib and seaborn course from manara website, this rebo include a readme file for each point in the course and a code for the visualization 
 
 the notebook is made on google colab ( you can view this interactive notebook through this link https://colab.research.google.com/drive/1WMFAbSkdVYUTu3qCIIhJSLX2107U8_rj?usp=sharing )
 
